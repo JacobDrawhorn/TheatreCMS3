@@ -24,7 +24,6 @@ The first task was creating the model for the Rental History itself, and then us
 The following is the cshtml code of the rental history create page:
 ![image](https://user-images.githubusercontent.com/87413802/144732925-4aac2a66-77cb-4bd4-b471-d07ccf80b2d6.png)
 ![image](https://user-images.githubusercontent.com/87413802/144732934-a5c774fa-24f9-470e-b4ea-f42d68982354.png)
-
 The following is the rental history create page:
 ![image](https://user-images.githubusercontent.com/87413802/144733023-0d0fbe5d-6c65-4569-b3e2-4fdc7a998c29.png)
 
