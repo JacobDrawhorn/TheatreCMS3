@@ -25,8 +25,7 @@ The following is the cshtml code of the rental history create page:
 ![image](https://user-images.githubusercontent.com/87413802/144732925-4aac2a66-77cb-4bd4-b471-d07ccf80b2d6.png)
 ![image](https://user-images.githubusercontent.com/87413802/144732934-a5c774fa-24f9-470e-b4ea-f42d68982354.png)
 The following is the rental history create page:
-![image](https://user-images.githubusercontent.com/87413802/144733023-0d0fbe5d-6c65-4569-b3e2-4fdc7a998c29.png)
-
+![image](https://user-images.githubusercontent.com/87413802/144733518-a6d77202-aa52-43ad-b178-454bd4501613.png)
 # Stlying Rental History Index Page (Table containing all rental history entries to the database)
 The following is the cshtml code of the rental history index page:
 ![image](https://user-images.githubusercontent.com/87413802/144733307-b62c1b55-790b-45fb-b5f7-1ba9ae47e08e.png)
